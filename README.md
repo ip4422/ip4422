@@ -9,7 +9,7 @@ Crafting scalable web applications for over **9+ years**, I specialize in delive
 
 ### **Front-End Development**
 
-- React, Next.js, Redux, TypeScript, Vue.js
+- React, Remix, RR7, Next.js, Redux, TypeScript, Vue.js
 - JavaScript (ES6+), HTML5, CSS3, Sass
 - Storybook, Tailwind, Ant Design, Material UI
 
