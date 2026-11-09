@@ -1,39 +1,23 @@
-# Hi there 👋
+# Igor Popov
 
-🚀 **Driven and outcome-focused Full Stack Engineer**  
-Crafting scalable web applications for over **9+ years**, I specialize in delivering high-quality solutions by leveraging cutting-edge technologies across the entire development lifecycle.
+I’m a senior software engineer with 15+ years of experience building and operating production web systems. I work across full-stack web architecture and cloud infrastructure. Outside my main role, I build independent web and mobile apps and browser extensions.
 
----
+[Igor Popov Dev](https://igor-popov.dev/) · [LinkedIn](https://www.linkedin.com/in/igor-popov-86a419167/)
 
-## 🛠 **Tech Stack & Skills**
+## Projects
 
-### **Front-End Development**
+- **[Instant Web Call](https://instantwebcall.com/)** — Make international calls from your browser to supported landlines and mobile numbers, with a cost estimate before dialing.
+- **[Calm Down Fast](https://calmdownfast.com/)** — A calming app for Android that offers a short pause when you feel tense, overstimulated, or find it hard to wind down. Choose a short breathing, movement, or attention exercise based on how you feel and follow the visual guide at your own pace. Try two exercises for free. Full access is a one-time purchase with no subscription.
+- **[Screen Rest](https://overstimulationreset.com/)** — A Chrome extension for screen breaks with optional screen break reminders and guided eye exercises.
+- **[Quick Calm](https://calminseconds.com/)** — A Chrome extension for short breaks with box breathing and grounding exercises.
 
-- React, Remix, RR7, Next.js, Redux, TypeScript, Vue.js
-- JavaScript (ES6+), HTML5, CSS3, Sass
-- Storybook, Tailwind, Ant Design, Material UI
+## Engineering stack
 
-#### **Back-End Development**
-
-- Node.js (Express, Nest.js), Python (Django, Flask)
-
-#### **Databases**
-
-- SQL (MySQL, PostgreSQL), MongoDB
-
-#### **DevOps & Testing**
-
-- Docker, AWS, GCP, CI/CD pipelines
-- Test-Driven Development (TDD)
-- Unit Testing (Jest, RTL), E2E Testing (Cypress, Playwright)
-
-#### **Integration**
-
-- Domo, Looker, Contentful, Strapi
-
----
-
-### 📫 **How to reach me:**
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/igor-popov-86a419167/)  
-[![GitHub Badge](https://img.shields.io/github/followers/ip4422?style=social)](https://github.com/ip4422)
+- **Web applications** — TypeScript, JavaScript, React, React Router, Vue, Storybook, and server-side rendering.
+- **Backend and APIs** — Node.js, Express, NestJS, GraphQL, and Python with Django and Flask.
+- **Databases and caching** — PostgreSQL, MySQL, MongoDB, Cloudflare D1, and Redis.
+- **Cloud and delivery** — AWS, Cloudflare Workers and CDN, Docker, Kubernetes, Terraform, and CI/CD pipelines.
+- **Observability** — OpenTelemetry, Grafana, and Sentry for tracing, metrics, and error monitoring.
+- **Mobile and browser extensions** — React Native, Expo, and Chrome extension development.
+- **Testing** — Jest, React Testing Library, Cypress, Playwright, and test-driven development.
+- **Product integrations** — Twilio Voice and Stripe.
